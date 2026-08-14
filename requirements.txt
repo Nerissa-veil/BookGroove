@@ -1,0 +1,12 @@
+# Core runtime (SiliconFlow + Replicate MusicGen)
+streamlit>=1.32,<2
+openai>=1.40,<2
+replicate>=0.32,<2
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+lxml>=5.0
+pydub>=0.25.1
+audioop-lts>=0.2.1; python_version>='3.13'
+static-ffmpeg>=2.13
+requests>=2.32
+pypdf>=4.3

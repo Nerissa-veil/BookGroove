@@ -1,0 +1,26 @@
+{
+  "title": "Sample: Desert Archive",
+  "overall_mood": "solemn, mystical, restrained",
+  "emotional_range": "quiet awe to bittersweet memory",
+  "themes": ["memory", "sand", "lost libraries"],
+  "setting": "an imagined desert city at dusk",
+  "rhythm": "slow and ceremonial",
+  "music_direction": "reed flute lead, soft plucked lyre pad, 58 bpm, no percussion",
+  "suite_sections": [
+    {
+      "name": "Temple Dawn",
+      "atmosphere": "A single reed line over a distant drone.",
+      "music_prompt": "D phrygian dominant, breathy reed flute solo with a clear slow melody, very soft plucked lyre drone, 58 bpm, sparse ancient temple ambient, no drums no percussion"
+    },
+    {
+      "name": "Archive Hall",
+      "atmosphere": "The same motif, slightly fuller but still sparse.",
+      "music_prompt": "same key D phrygian dominant, reed flute main melody develops, gentle plucked lyre accompaniment, meditative ceremonial, no beat no rhythm section"
+    },
+    {
+      "name": "Nile Night",
+      "atmosphere": "The motif fades into long held notes.",
+      "music_prompt": "same key, reed flute and lyre, slow fading phrases, peaceful eternal mood, instrumental only no percussion"
+    }
+  ]
+}

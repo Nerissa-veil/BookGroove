@@ -1,0 +1,32 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Generated user data
+library/*
+!library/.gitkeep
+models/
+output/
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Tools / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.cursor/
+*.log
+.cache/
